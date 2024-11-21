@@ -123,6 +123,7 @@ while (menu !== 3) {
             break
         case 2:
             verResultados()
+            alert("tus resultados se encuentran impresos en pantalla, al salir los podras ver")
             break
         default:
             alert("opcion incorrecta")
