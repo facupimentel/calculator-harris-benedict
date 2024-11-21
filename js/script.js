@@ -107,8 +107,8 @@ const verResultados = () => {
                                         <h3>objetivo: ${resultado.objetivo} kcal</h3>`
             mostrarResultados.appendChild(contenedor)
             console.log(resultados)
+            alert("tus resultados se encuentran impresos en pantalla, al salir los podras ver")
         })
-        alert("tus resultados se encuentran impresos en pantalla, al salir los podras ver")
     }
 }
 
